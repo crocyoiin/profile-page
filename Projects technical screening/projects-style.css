@@ -160,9 +160,7 @@ body{
     position:fixed;
     width:70%;
     box-sizing: border-box;
-    background: rgb(36,11,11);
-    background: linear-gradient(0deg, rgba(36,11,11,1) 0%, rgba(65,15,15,0.3435749299719888) 45%, rgba(27,14,14,0) 100%);
-}
+    background: linear-gradient(0deg, rgb(41, 13, 13) 0%, rgba(30, 10, 10, 0.6) 65%, rgba(27,14,14,0.1) 100%);}
 
 #navbar ul{
     padding:0;
